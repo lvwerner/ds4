@@ -1,0 +1,12 @@
+2023-10-29 23:02:03.4779|INFO|DS4Windows version 3.2.18
+2023-10-29 23:02:03.4779|INFO|DS4Windows exe file: DS4Windows.exe
+2023-10-29 23:02:03.4779|INFO|DS4Windows Assembly Architecture: x64
+2023-10-29 23:02:03.4779|INFO|OS Version: Microsoft Windows NT 10.0.19045.0
+2023-10-29 23:02:03.4779|INFO|OS Product Name: Windows 10 Pro
+2023-10-29 23:02:03.4779|INFO|OS Release ID: 2009
+2023-10-29 23:02:03.4779|INFO|System Architecture: x64
+2023-10-29 23:02:03.4779|INFO|Logger created
+2023-10-29 23:02:03.6973|INFO|LinkedProfiles.xml can't be found.
+2023-10-29 23:02:05.6263|INFO|Running as User
+2023-10-29 23:02:08.2715|INFO|ViGEmBus is not installed
+2023-10-29 23:04:01.0534|INFO|Request App Shutdown

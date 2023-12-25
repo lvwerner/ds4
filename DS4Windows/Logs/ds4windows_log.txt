@@ -1,0 +1,136 @@
+2023-12-25 00:05:27.0690|INFO|DS4Windows version 3.2.18
+2023-12-25 00:05:27.0778|INFO|DS4Windows exe file: DS4Windows.exe
+2023-12-25 00:05:27.0778|INFO|DS4Windows Assembly Architecture: x64
+2023-12-25 00:05:27.0778|INFO|OS Version: Microsoft Windows NT 10.0.19045.0
+2023-12-25 00:05:27.0778|INFO|OS Product Name: Windows 10 Pro
+2023-12-25 00:05:27.0778|INFO|OS Release ID: 2009
+2023-12-25 00:05:27.0778|INFO|System Architecture: x64
+2023-12-25 00:05:27.0778|INFO|Logger created
+2023-12-25 00:05:28.3638|INFO|LinkedProfiles.xml can't be found.
+2023-12-25 00:05:32.8963|INFO|Running as User
+2023-12-25 00:05:32.8963|INFO|HidHide control device found
+2023-12-25 00:05:32.8963|INFO|DS4Windows not found in HidHide whitelist. Adding to list
+2023-12-25 00:05:34.1467|INFO|Starting...
+2023-12-25 00:05:36.1477|INFO|Some applications may block controller inputs. (Windows UAC Conflictions). Please go to https://ryochan7.github.io/ds4windows-site/troubleshooting/kb-mouse-issues/#windows-not-responding-to-ds4ws-kb-m-commands-in-some-situations for more information and workarounds.
+2023-12-25 00:05:36.1477|INFO|Using output KB+M handler: SendInput
+2023-12-25 00:05:36.1477|INFO|Connection to ViGEmBus 1.21.442.0 established
+2023-12-25 00:05:36.1477|INFO|Searching for controllers...
+2023-12-25 00:05:36.1477|INFO|Using Shared Mode
+2023-12-25 00:05:36.2342|INFO|Found Controller: 84:30:95:69:67:51 (BT) (DS4 v.2).
+2023-12-25 00:05:36.8668|INFO|Plugging in virtual X360 controller (XInput slot #1) in output slot #1
+2023-12-25 00:05:36.8668|INFO|Associated input controller #1 (DS4 v.2) to virtual X360 Controller in output slot #1
+2023-12-25 00:05:36.9186|INFO|Controller 1 is using Profile "Default". Battery level is 12%
+2023-12-25 01:09:31.5785|WARN|84:30:95:69:67:51 disconnected due to read failure: 0
+2023-12-25 01:09:31.5785|INFO|Gamepad data write connection is lost. Disconnecting the gamepad. LastErrorCode=0
+2023-12-25 01:09:31.5785|INFO|Disassociated virtual X360 Controller in output slot #1 from input controller #1 (DS4 v.2)
+2023-12-25 01:09:31.5926|INFO|Unplugging virtual X360 Controller from output slot #1
+2023-12-25 01:09:31.5926|INFO|Controller 1 was removed or lost connection. Charge the battery
+2023-12-25 01:11:46.5417|INFO|Found Controller: 84:30:95:69:67:51 (BT) (DS4 v.2).
+2023-12-25 01:11:47.0593|INFO|Plugging in virtual X360 controller (XInput slot #1) in output slot #1
+2023-12-25 01:11:47.0593|INFO|Associated input controller #1 (DS4 v.2) to virtual X360 Controller in output slot #1
+2023-12-25 01:11:47.0611|INFO|Controller 1 is using Profile "Default". Battery level is 0%
+2023-12-25 02:10:27.9088|WARN|84:30:95:69:67:51 disconnected due to read failure: 0
+2023-12-25 02:10:27.9088|INFO|Gamepad data write connection is lost. Disconnecting the gamepad. LastErrorCode=0
+2023-12-25 02:10:27.9088|INFO|Disassociated virtual X360 Controller in output slot #1 from input controller #1 (DS4 v.2)
+2023-12-25 02:10:27.9088|INFO|Unplugging virtual X360 Controller from output slot #1
+2023-12-25 02:10:27.9088|INFO|Controller 1 was removed or lost connection. Charge the battery
+2023-12-25 04:12:19.8548|INFO|Stopping Virtual Output Controllers
+2023-12-25 04:12:19.8548|INFO|Closing connection to ViGEmBus
+2023-12-25 04:12:19.8548|INFO|Stopping DS4 Input Controllers
+2023-12-25 04:12:19.8575|INFO|Stopped DS4Windows
+2023-12-25 04:12:19.8575|INFO|Closing connection to output handler SendInput
+2023-12-25 14:06:10.1342|INFO|Waking Up From Suspend
+2023-12-25 14:06:15.1523|INFO|Starting...
+2023-12-25 14:06:17.1537|INFO|Some applications may block controller inputs. (Windows UAC Conflictions). Please go to https://ryochan7.github.io/ds4windows-site/troubleshooting/kb-mouse-issues/#windows-not-responding-to-ds4ws-kb-m-commands-in-some-situations for more information and workarounds.
+2023-12-25 14:06:17.1537|INFO|Using output KB+M handler: SendInput
+2023-12-25 14:06:17.1537|INFO|Connection to ViGEmBus 1.21.442.0 established
+2023-12-25 14:06:17.1537|INFO|Searching for controllers...
+2023-12-25 14:06:17.1537|INFO|Using Shared Mode
+2023-12-25 14:06:19.6440|INFO|Found Controller: 84:30:95:69:67:51 (BT) (DS4 v.2).
+2023-12-25 14:06:20.1920|INFO|Plugging in virtual X360 controller (XInput slot #1) in output slot #1
+2023-12-25 14:06:20.1920|INFO|Associated input controller #1 (DS4 v.2) to virtual X360 Controller in output slot #1
+2023-12-25 14:06:20.1920|INFO|Controller 1 is using Profile "Default". Battery level is 0%
+2023-12-25 14:07:00.1369|WARN|84:30:95:69:67:51 disconnected due to read failure: 0
+2023-12-25 14:07:00.1369|INFO|Gamepad data write connection is lost. Disconnecting the gamepad. LastErrorCode=0
+2023-12-25 14:07:00.1369|INFO|Disassociated virtual X360 Controller in output slot #1 from input controller #1 (DS4 v.2)
+2023-12-25 14:07:00.1369|INFO|Unplugging virtual X360 Controller from output slot #1
+2023-12-25 14:07:00.1383|INFO|Controller 1 was removed or lost connection. Charge the battery
+2023-12-25 14:26:12.0119|INFO|Found Controller: 84:30:95:69:67:51 (BT) (DS4 v.2).
+2023-12-25 14:26:12.5365|INFO|Plugging in virtual X360 controller (XInput slot #1) in output slot #1
+2023-12-25 14:26:12.5365|INFO|Associated input controller #1 (DS4 v.2) to virtual X360 Controller in output slot #1
+2023-12-25 14:26:12.5365|INFO|Controller 1 is using Profile "Default". Battery level is 0%
+2023-12-25 14:28:38.6389|WARN|84:30:95:69:67:51 disconnected due to read failure: 0
+2023-12-25 14:28:38.6389|INFO|Gamepad data write connection is lost. Disconnecting the gamepad. LastErrorCode=0
+2023-12-25 14:28:38.6389|INFO|Disassociated virtual X360 Controller in output slot #1 from input controller #1 (DS4 v.2)
+2023-12-25 14:28:38.6389|INFO|Unplugging virtual X360 Controller from output slot #1
+2023-12-25 14:28:38.6389|INFO|Controller 1 was removed or lost connection. Charge the battery
+2023-12-25 14:28:45.0509|INFO|Found Controller: 84:30:95:69:67:51 (BT) (DS4 v.2).
+2023-12-25 14:28:45.5719|INFO|Plugging in virtual X360 controller (XInput slot #1) in output slot #1
+2023-12-25 14:28:45.5719|INFO|Associated input controller #1 (DS4 v.2) to virtual X360 Controller in output slot #1
+2023-12-25 14:28:45.5719|INFO|Controller 1 is using Profile "Default". Battery level is 0%
+2023-12-25 14:28:45.5787|INFO|Gamepad data write connection is lost. Disconnecting the gamepad. LastErrorCode=995
+2023-12-25 14:28:45.5787|WARN|84:30:95:69:67:51 disconnected due to read failure: 0
+2023-12-25 14:28:45.5787|INFO|Gamepad data write connection is lost. Disconnecting the gamepad. LastErrorCode=0
+2023-12-25 14:28:45.5787|INFO|Disassociated virtual X360 Controller in output slot #1 from input controller #1 (DS4 v.2)
+2023-12-25 14:28:45.5787|INFO|Unplugging virtual X360 Controller from output slot #1
+2023-12-25 14:28:45.5787|INFO|Controller 1 was removed or lost connection. Charge the battery
+2023-12-25 14:28:57.4509|INFO|Found Controller: 84:30:95:69:67:51 (BT) (DS4 v.2).
+2023-12-25 14:28:57.9222|INFO|Plugging in virtual X360 controller (XInput slot #1) in output slot #1
+2023-12-25 14:28:57.9222|INFO|Associated input controller #1 (DS4 v.2) to virtual X360 Controller in output slot #1
+2023-12-25 14:28:57.9222|INFO|Controller 1 is using Profile "Default". Battery level is 0%
+2023-12-25 14:29:03.9244|INFO|Gamepad data write connection is lost. Disconnecting the gamepad. LastErrorCode=995
+2023-12-25 14:29:03.9244|WARN|84:30:95:69:67:51 disconnected due to read failure: 0
+2023-12-25 14:29:03.9244|INFO|Gamepad data write connection is lost. Disconnecting the gamepad. LastErrorCode=0
+2023-12-25 14:29:03.9244|INFO|Disassociated virtual X360 Controller in output slot #1 from input controller #1 (DS4 v.2)
+2023-12-25 14:29:03.9244|INFO|Unplugging virtual X360 Controller from output slot #1
+2023-12-25 14:29:03.9244|INFO|Controller 1 was removed or lost connection. Charge the battery
+2023-12-25 14:29:13.6199|INFO|Found Controller: 84:30:95:69:67:51 (BT) (DS4 v.2).
+2023-12-25 14:29:14.1044|INFO|Plugging in virtual X360 controller (XInput slot #1) in output slot #1
+2023-12-25 14:29:14.1044|INFO|Associated input controller #1 (DS4 v.2) to virtual X360 Controller in output slot #1
+2023-12-25 14:29:14.1044|INFO|Controller 1 is using Profile "Default". Battery level is 0%
+2023-12-25 14:46:42.5208|WARN|84:30:95:69:67:51 disconnected due to read failure: 0
+2023-12-25 14:46:42.5208|INFO|Gamepad data write connection is lost. Disconnecting the gamepad. LastErrorCode=0
+2023-12-25 14:46:42.5208|INFO|Disassociated virtual X360 Controller in output slot #1 from input controller #1 (DS4 v.2)
+2023-12-25 14:46:42.5208|INFO|Unplugging virtual X360 Controller from output slot #1
+2023-12-25 14:46:42.5208|INFO|Controller 1 was removed or lost connection. Charge the battery
+2023-12-25 14:46:55.2026|INFO|Found Controller: 84:30:95:69:67:51 (BT) (DS4 v.2).
+2023-12-25 14:46:55.7112|INFO|Plugging in virtual X360 controller (XInput slot #1) in output slot #1
+2023-12-25 14:46:55.7112|INFO|Associated input controller #1 (DS4 v.2) to virtual X360 Controller in output slot #1
+2023-12-25 14:46:55.7112|INFO|Controller 1 is using Profile "Default". Battery level is 0%
+2023-12-25 14:52:02.7812|WARN|84:30:95:69:67:51 disconnected due to read failure: 0
+2023-12-25 14:52:02.7812|INFO|Gamepad data write connection is lost. Disconnecting the gamepad. LastErrorCode=0
+2023-12-25 14:52:02.7812|INFO|Disassociated virtual X360 Controller in output slot #1 from input controller #1 (DS4 v.2)
+2023-12-25 14:52:02.7812|INFO|Unplugging virtual X360 Controller from output slot #1
+2023-12-25 14:52:02.7812|INFO|Controller 1 was removed or lost connection. Charge the battery
+2023-12-25 14:54:10.9479|INFO|Found Controller: 84:30:95:69:67:51 (BT) (DS4 v.2).
+2023-12-25 14:54:11.4641|INFO|Plugging in virtual X360 controller (XInput slot #1) in output slot #1
+2023-12-25 14:54:11.4641|INFO|Associated input controller #1 (DS4 v.2) to virtual X360 Controller in output slot #1
+2023-12-25 14:54:11.4641|INFO|Controller 1 is using Profile "Default". Battery level is 0%
+2023-12-25 15:13:54.8300|WARN|84:30:95:69:67:51 disconnected due to read failure: 0
+2023-12-25 15:13:54.8300|INFO|Gamepad data write connection is lost. Disconnecting the gamepad. LastErrorCode=0
+2023-12-25 15:13:54.8300|INFO|Disassociated virtual X360 Controller in output slot #1 from input controller #1 (DS4 v.2)
+2023-12-25 15:13:54.8300|INFO|Unplugging virtual X360 Controller from output slot #1
+2023-12-25 15:13:54.8300|INFO|Controller 1 was removed or lost connection. Charge the battery
+2023-12-25 15:14:09.6591|INFO|Found Controller: 84:30:95:69:67:51 (BT) (DS4 v.2).
+2023-12-25 15:14:10.1674|INFO|Plugging in virtual X360 controller (XInput slot #1) in output slot #1
+2023-12-25 15:14:10.1674|INFO|Associated input controller #1 (DS4 v.2) to virtual X360 Controller in output slot #1
+2023-12-25 15:14:10.1674|WARN|84:30:95:69:67:51 disconnected due to read failure: 0
+2023-12-25 15:14:10.1674|INFO|Gamepad data write connection is lost. Disconnecting the gamepad. LastErrorCode=0
+2023-12-25 15:14:10.1674|INFO|Disassociated virtual X360 Controller in output slot #1 from input controller #1 (DS4 v.2)
+2023-12-25 15:14:10.1674|INFO|Unplugging virtual X360 Controller from output slot #1
+2023-12-25 15:14:10.1674|INFO|Controller 1 was removed or lost connection. Charge the battery
+2023-12-25 15:14:19.9048|INFO|Found Controller: 84:30:95:69:67:51 (BT) (DS4 v.2).
+2023-12-25 15:14:20.3901|INFO|Plugging in virtual X360 controller (XInput slot #1) in output slot #1
+2023-12-25 15:14:20.3901|INFO|Associated input controller #1 (DS4 v.2) to virtual X360 Controller in output slot #1
+2023-12-25 15:14:20.3901|INFO|Controller 1 is using Profile "Default". Battery level is 0%
+2023-12-25 16:08:48.5502|WARN|84:30:95:69:67:51 disconnected due to read failure: 0
+2023-12-25 16:08:48.5502|INFO|Gamepad data write connection is lost. Disconnecting the gamepad. LastErrorCode=0
+2023-12-25 16:08:48.5502|INFO|Disassociated virtual X360 Controller in output slot #1 from input controller #1 (DS4 v.2)
+2023-12-25 16:08:48.5502|INFO|Unplugging virtual X360 Controller from output slot #1
+2023-12-25 16:08:48.5502|INFO|Controller 1 was removed or lost connection. Charge the battery
+2023-12-25 20:29:08.9517|INFO|Request App Shutdown
+2023-12-25 20:29:08.9517|INFO|Stopping Virtual Output Controllers
+2023-12-25 20:29:08.9517|INFO|Closing connection to ViGEmBus
+2023-12-25 20:29:08.9517|INFO|Stopping DS4 Input Controllers
+2023-12-25 20:29:08.9517|INFO|Stopped DS4Windows
+2023-12-25 20:29:08.9517|INFO|Closing connection to output handler SendInput

@@ -1,0 +1,63 @@
+2023-10-29 23:06:09.1092|INFO|DS4Windows version 3.2.18
+2023-10-29 23:06:09.2564|INFO|DS4Windows exe file: DS4Windows.exe
+2023-10-29 23:06:09.2564|INFO|DS4Windows Assembly Architecture: x64
+2023-10-29 23:06:09.2564|INFO|OS Version: Microsoft Windows NT 10.0.19045.0
+2023-10-29 23:06:09.2564|INFO|OS Product Name: Windows 10 Pro
+2023-10-29 23:06:09.2564|INFO|OS Release ID: 2009
+2023-10-29 23:06:09.2564|INFO|System Architecture: x64
+2023-10-29 23:06:09.2564|INFO|Logger created
+2023-10-29 23:06:11.3508|INFO|LinkedProfiles.xml can't be found.
+2023-10-29 23:06:23.0713|INFO|Running as User
+2023-10-29 23:06:23.0713|INFO|HidHide control device found
+2023-10-29 23:06:23.0804|INFO|DS4Windows not found in HidHide whitelist. Adding to list
+2023-10-29 23:06:24.3024|INFO|Starting...
+2023-10-29 23:06:26.3032|INFO|Some applications may block controller inputs. (Windows UAC Conflictions). Please go to https://ryochan7.github.io/ds4windows-site/troubleshooting/kb-mouse-issues/#windows-not-responding-to-ds4ws-kb-m-commands-in-some-situations for more information and workarounds.
+2023-10-29 23:06:26.3032|INFO|Using output KB+M handler: SendInput
+2023-10-29 23:06:26.3032|INFO|Connection to ViGEmBus 1.21.442.0 established
+2023-10-29 23:06:26.3032|INFO|Searching for controllers...
+2023-10-29 23:06:26.3032|INFO|Using Shared Mode
+2023-10-29 23:06:26.5128|INFO|Found Controller: 84:30:95:69:67:51 (USB) (DS4 v.2).
+2023-10-29 23:06:27.4868|INFO|Plugging in virtual X360 controller (XInput slot #1) in output slot #1
+2023-10-29 23:06:27.4868|INFO|Associated input controller #1 (DS4 v.2) to virtual X360 Controller in output slot #1
+2023-10-29 23:06:27.5547|INFO|Controller 1 is using Profile "Default". Battery level is 100%
+2023-10-29 23:06:55.3962|INFO|Stopping Virtual Output Controllers
+2023-10-29 23:06:55.3962|INFO|Closing connection to ViGEmBus
+2023-10-29 23:06:55.3962|INFO|Disassociated virtual X360 Controller in output slot #1 from input controller #1 (DS4 v.2)
+2023-10-29 23:06:55.4055|INFO|Unplugging virtual X360 Controller from output slot #1
+2023-10-29 23:06:55.4055|INFO|Stopping DS4 Input Controllers
+2023-10-29 23:06:55.4055|INFO|Stopped DS4Windows
+2023-10-29 23:06:55.9129|INFO|Closing connection to output handler SendInput
+2023-10-29 23:07:12.4426|INFO|Waking Up From Suspend
+2023-10-29 23:07:17.4553|INFO|Starting...
+2023-10-29 23:07:19.4563|INFO|Some applications may block controller inputs. (Windows UAC Conflictions). Please go to https://ryochan7.github.io/ds4windows-site/troubleshooting/kb-mouse-issues/#windows-not-responding-to-ds4ws-kb-m-commands-in-some-situations for more information and workarounds.
+2023-10-29 23:07:19.4563|INFO|Using output KB+M handler: SendInput
+2023-10-29 23:07:19.4563|INFO|Connection to ViGEmBus 1.21.442.0 established
+2023-10-29 23:07:19.4563|INFO|Searching for controllers...
+2023-10-29 23:07:19.4563|INFO|Using Shared Mode
+2023-10-29 23:07:31.3257|INFO|Found Controller: 84:30:95:69:67:51 (USB) (DS4 v.2).
+2023-10-29 23:07:31.8296|INFO|Plugging in virtual X360 controller (XInput slot #1) in output slot #1
+2023-10-29 23:07:31.8296|INFO|Associated input controller #1 (DS4 v.2) to virtual X360 Controller in output slot #1
+2023-10-29 23:07:31.8296|INFO|Controller 1 is using Profile "Default". Battery level is 100%
+2023-10-29 23:20:35.9656|INFO|Disassociated virtual X360 Controller in output slot #1 from input controller #1 (DS4 v.2)
+2023-10-29 23:20:35.9656|INFO|Unplugging virtual X360 Controller from output slot #1
+2023-10-29 23:20:35.9656|INFO|Controller 1 was removed or lost connection
+2023-10-30 22:32:22.2130|INFO|Found Controller: 84:30:95:69:67:51 (USB) (DS4 v.2).
+2023-10-30 22:32:22.7607|INFO|Plugging in virtual X360 controller (XInput slot #1) in output slot #1
+2023-10-30 22:32:22.7607|INFO|Associated input controller #1 (DS4 v.2) to virtual X360 Controller in output slot #1
+2023-10-30 22:32:22.7607|INFO|Controller 1 is using Profile "Default". Battery level is 100%
+2023-10-30 22:32:24.9619|INFO|Disassociated virtual X360 Controller in output slot #1 from input controller #1 (DS4 v.2)
+2023-10-30 22:32:24.9619|INFO|Unplugging virtual X360 Controller from output slot #1
+2023-10-30 22:32:24.9619|INFO|Controller 1 was removed or lost connection
+2023-10-30 22:36:32.1743|INFO|Found Controller: 84:30:95:69:67:51 (USB) (DS4 v.2).
+2023-10-30 22:36:32.6776|INFO|Plugging in virtual X360 controller (XInput slot #1) in output slot #1
+2023-10-30 22:36:32.6776|INFO|Associated input controller #1 (DS4 v.2) to virtual X360 Controller in output slot #1
+2023-10-30 22:36:32.6776|INFO|Controller 1 is using Profile "Default". Battery level is 100%
+2023-10-30 22:54:38.9649|INFO|Disassociated virtual X360 Controller in output slot #1 from input controller #1 (DS4 v.2)
+2023-10-30 22:54:38.9649|INFO|Unplugging virtual X360 Controller from output slot #1
+2023-10-30 22:54:38.9649|INFO|Controller 1 was removed or lost connection
+2023-10-30 23:57:22.9698|INFO|User Session Ending
+2023-10-30 23:57:22.9698|INFO|Stopping Virtual Output Controllers
+2023-10-30 23:57:22.9698|INFO|Closing connection to ViGEmBus
+2023-10-30 23:57:22.9698|INFO|Stopping DS4 Input Controllers
+2023-10-30 23:57:22.9698|INFO|Stopped DS4Windows
+2023-10-30 23:57:22.9698|INFO|Closing connection to output handler SendInput
